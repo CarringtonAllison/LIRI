@@ -1,5 +1,7 @@
 # LIRI
 
+how it works (https://drive.google.com/file/d/1wuxj00EUqLWfHhviOnp_ComGuHj-lbz0/view)
+
  LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 What Each Command Should Do
