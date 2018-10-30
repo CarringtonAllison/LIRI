@@ -1,7 +1,5 @@
 # LIRI
 
-how it works (https://drive.google.com/file/d/1wuxj00EUqLWfHhviOnp_ComGuHj-lbz0/view)
-
  LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 What Each Command Should Do
@@ -38,3 +36,6 @@ What Each Command Should Do
 
 4. `node liri.js do-what-it-says`
     * Runs the random.txt file attached to the directory for all searches
+
+
+how it works (https://drive.google.com/file/d/1wuxj00EUqLWfHhviOnp_ComGuHj-lbz0/view)
